@@ -1,0 +1,24 @@
+{
+  "name": "liri-hw",
+  "version": "1.0.0",
+  "description": "packages for the liri hw assignment ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michael ross curnes",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^3.3.0",
+    "node-spotify-api": "^1.0.7",
+    "spotify": "^0.3.0",
+    "spotify-web-api-node": "^2.5.0",
+    "twit": "^2.2.9",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {
+    "cli-clear": "^1.0.4"
+  }
+}
